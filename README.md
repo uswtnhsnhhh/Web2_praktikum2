@@ -2,8 +2,8 @@
 
 ## 👤 Data Mahasiswa
 
-* Nama: **Muhammad Hafiyainul Yakin Wahid**
-* NIM: **312410164**
+* Nama: **Uswatun Hasanah**
+* NIM: **312410163**
 * Kelas: **I241A**
 
 ---
